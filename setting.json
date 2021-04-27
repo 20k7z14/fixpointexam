@@ -1,0 +1,12 @@
+{
+  "Path" : {
+    "testcase_dir_path":"../testcase/1st/example_2.csv",
+    "result_dir_path":"../result/1st"
+  },
+  "DefaultValue" : {
+    "DefaultRoundTime" : 4000,
+    "n_MaxValue" : 10,
+    "m_MaxValue" : 10,
+    "t_MaxValue" : 4000
+  }
+}
